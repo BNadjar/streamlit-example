@@ -1,8 +1,5 @@
 altair
 pandas
 streamlit
-requests
-os
-urllib3
-asyncio
-json
+urrlib3
+urrlib
