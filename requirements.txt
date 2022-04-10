@@ -1,7 +1,6 @@
 altair
 pandas
 streamlit
-time
 requests
 os
 urllib3
